@@ -1,0 +1,13 @@
+title,description,latitude,longitude,type,confidence
+Signal Intercept Bravo,High-frequency radio burst detected near port facility. Duration 4.2 seconds.,25.2048,55.2708,OSINT,68
+Field Asset Report Kilo,Confirmed movement of convoy through mountain pass. 3 vehicles spotted.,33.8869,35.5131,HUMINT,85
+Satellite Pass Gamma,Thermal imaging reveals activity at suspected facility. Estimated 12-15 personnel.,31.7683,35.2137,IMINT,91
+Social Media Cluster,Spike in encrypted comms originating from district 7. Pattern matches prior activity.,28.6139,77.209,OSINT,55
+Informant Report Echo,Insider contact confirmed transfer of materials at warehouse district.,19.076,72.8777,HUMINT,79
+Aerial Recon Delta,Unmanned aerial vehicle footage shows vehicle convoy dispersal.,48.1351,11.582,IMINT,88
+Dark Web Chatter,Forums indicate coordinated logistics operation planned for Q4.,59.3293,18.0686,OSINT,42
+Field Operative Lima,Source reports new safe house established in residential block.,41.0082,28.9784,HUMINT,70
+Orbital Imagery Zeta,New construction identified matching industrial profile. Est. completion 6 months.,55.7558,37.6173,IMINT,94
+SIGINT Collection Alpha,Intercepted communications reference operation codename NIGHTFALL.,35.6762,139.6503,OSINT,63
+Ground Truth Report,Multiple sources corroborate asset movement via northern trade route.,23.8103,90.4125,HUMINT,82
+SAR Satellite Foxtrot,Synthetic aperture radar reveals underground structure 40m depth.,30.0444,31.2357,IMINT,97

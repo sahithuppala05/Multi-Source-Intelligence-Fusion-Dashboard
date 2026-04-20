@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+*/node_modules/
+
+# Environment files
+.env
+backend/.env
+
+# Build output
+frontend/dist/
+
+# Uploads (don't commit user uploads)
+backend/uploads/images/*
+backend/uploads/data/*
+!backend/uploads/images/.gitkeep
+!backend/uploads/data/.gitkeep
+
+# Misc
+.DS_Store
+*.log
+npm-debug.log*

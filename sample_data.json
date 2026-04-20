@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Network Node Tango",
+    "description": "Fiber optic splice detected on secure government cable. Duration of access unknown.",
+    "latitude": 51.5074,
+    "longitude": -0.1278,
+    "type": "OSINT",
+    "confidence": 73
+  },
+  {
+    "title": "HUMINT Source Whiskey",
+    "description": "Defector confirms location of regional command structure. High reliability source.",
+    "latitude": 48.8566,
+    "longitude": 2.3522,
+    "type": "HUMINT",
+    "confidence": 91
+  },
+  {
+    "title": "IMINT Site November",
+    "description": "Overhead imagery shows significant expansion of maritime facility. New dock construction observed.",
+    "latitude": 37.5665,
+    "longitude": 126.978,
+    "type": "IMINT",
+    "confidence": 86
+  },
+  {
+    "title": "Open Source Corroboration",
+    "description": "Cross-referencing satellite images with public shipping manifests reveals discrepancy.",
+    "latitude": -33.8688,
+    "longitude": 151.2093,
+    "type": "OSINT",
+    "confidence": 60
+  },
+  {
+    "title": "Penetration Asset Report",
+    "description": "Embedded asset confirms scheduled meeting of regional leadership on 15th.",
+    "latitude": -23.5505,
+    "longitude": -46.6333,
+    "type": "HUMINT",
+    "confidence": 88
+  }
+]
